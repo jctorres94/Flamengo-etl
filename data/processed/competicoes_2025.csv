@@ -1,0 +1,8 @@
+competicao,primeiro_jogo,ultimo_jogo,fase_inicial,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo_gols,aproveitamento_pct,resultado,campeao
+Campeonato Brasileiro Série A,2025-03-29,2025-12-06,Matchday 1,38,23,10,5,78,27,51,60.53,Campeão,True
+Copa do Brasil,2025-05-01,2025-08-06,Third round,4,3,0,1,6,3,3,75.0,Oitavas de final,False
+Campeonato Carioca,2025-01-12,2025-03-16,Matchday 1,15,10,3,2,30,7,23,66.67,Campeão,True
+CONMEBOL Libertadores,2025-04-03,2025-11-29,Group stage,13,8,3,2,13,5,8,61.54,Campeão,True
+Supercopa Rei,2025-02-02,2025-02-02,Final,1,1,0,0,3,1,2,100.0,Campeão,True
+Copa do Mundo de Clubes da FIFA,2025-06-16,2025-06-29,Group stage,4,2,1,1,8,6,2,50.0,Oitavas de final,False
+Copa Intercontinental da FIFA,2025-12-10,2025-12-17,Second round,3,2,1,0,5,2,3,66.67,Vice-campeão,False

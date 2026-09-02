@@ -1,0 +1,34 @@
+direcao,posicao_sigla,jogador,clube_origem_destino,taxa_fonte,tipo_taxa,valor_brl_milhoes,valor_eur_milhoes,data,categoria,fonte
+Entrada,FW,Thiaguinho,Treze,Loan return,Retorno de empréstimo,,,2025-01-01,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Entrada,DF,Pablo,Botafogo,Loan return,Retorno de empréstimo,,,2025-01-01,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Entrada,FW,Juninho,Qarabağ FK,R$31m / €5m,Valor divulgado,31.0,5.0,2025-01-15,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Entrada,DF,Danilo,Juventus FC,Free,Sem custo,,,2025-01-29,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Entrada,MF,Jorginho,Arsenal,Free,Sem custo,,,2025-06-06,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Entrada,MF,Victor Hugo,Göztepe,Loan return,Retorno de empréstimo,,,2025-07-01,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Entrada,MF,Saúl Ñíguez,Atlético Madrid,Free,Sem custo,,,2025-07-23,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Entrada,DF,Emerson Royal,AC Milan,R$58.8m / €9m,Valor divulgado,58.8,9.0,2025-07-26,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Entrada,FW,Samuel Lino,Atlético Madrid,R$141.8m / €22m,Valor divulgado,141.8,22.0,2025-07-29,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Entrada,MF,Jorge Carrascal,Dynamo Moscow,R$77.1m / €12m,Valor divulgado,77.1,12.0,2025-08-02,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,GK,Hugo Souza,Corinthians,R$4.8m / €0.8m,Valor divulgado,4.8,0.8,2025-01-01,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,DF,David Luiz,Free agent,End of contract,Fim de contrato,,,2025-01-01,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,FW,Gabriel Barbosa,Cruzeiro,End of contract,Fim de contrato,,,2025-01-01,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,DF,Fabrício Bruno,Cruzeiro,R$44m / €7m,Valor divulgado,44.0,7.0,2025-01-11,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,FW,Thiaguinho,CRB,Free,Sem custo,,,2025-02-07,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,DF,Lucyan,Bahia,Undisclosed,Valor não divulgado,,,2025-03-19,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,DF,Ainoã,Free agent,Released,Valor divulgado,,,2025-05-23,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,DF,Wesley Juan,Free agent,Released,Valor divulgado,,,2025-05-23,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,FW,Felipe Lima,Alverca,Undisclosed,Valor não divulgado,,,2025-06-24,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,DF,Darlan,Botafogo-SP,End of contract,Fim de contrato,,,2025-06-30,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,MF,Carlos Alcaraz,Everton,R$97.8m / €15m,Valor divulgado,97.8,15.0,2025-07-01,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,MF,Gerson,Zenit Saint Petersburg,R$160.8m / €25m,Valor divulgado,160.8,25.0,2025-07-01,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,GK,Caio Barone,Celta Vigo,Free,Sem custo,,,2025-07-15,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,DF,Zé Welinton,Al Dhafra,Free,Sem custo,,,2025-07-23,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,DF,Wesley França,AS Roma,R$163.4m / €25m,Valor divulgado,163.4,25.0,2025-07-23,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,MF,Luís Aucélio,Vitória,Free,Sem custo,,,2025-08-01,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,MF,Kauan Menegatti,Athletico Paranaense,Free,Sem custo,,,2025-08-01,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,MF,Daniel Rogério,Vila Nova,Free,Sem custo,,,2025-08-14,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,MF,Matheus Gonçalves,Al-Ahli,R$50.5m / €8m,Valor divulgado,50.5,8.0,2025-08-27,First Team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,GK,Lucas Furtado,Vitória de Guimarães,Free,Sem custo,,,2025-08-28,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,FW,Shola Ogundana,Dinamo Kyiv,R$2.2m / €0.3m,Valor divulgado,2.2,0.3,2025-08-29,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,FW,Felipe Teresa,Free agent,Released,Valor divulgado,,,2025-09-22,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season
+Saída,MF,Fabiano,Audax,Loan Return,Retorno de empréstimo,,,2025-09-22,Youth team,https://en.wikipedia.org/wiki/2025_CR_Flamengo_season

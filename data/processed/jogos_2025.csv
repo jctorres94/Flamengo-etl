@@ -1,0 +1,79 @@
+jogo_id,data,competicao,fase_rodada,mandante,visitante,gols_mandante,gols_visitante,gols_flamengo,gols_adversario,resultado,condicao,estadio,cidade,no_maracana,grupo_local,publico,placar_fonte
+1,2025-01-12,Campeonato Carioca,1,Flamengo,Boavista,1,2,1,2,Derrota,Mandante,Batistão,Aracaju,False,Outros estádios,3793.0,1–2
+2,2025-01-16,Campeonato Carioca,2,Madureira,Flamengo,1,1,1,1,Empate,Visitante,Amigão,Campina Grande,False,Outros estádios,3614.0,1–1
+3,2025-01-19,Campeonato Carioca,3,Flamengo,Nova Iguaçu,1,2,1,2,Derrota,Mandante,Castelão,São Luís,False,Outros estádios,4696.0,1–2
+4,2025-01-22,Campeonato Carioca,4,Bangu,Flamengo,0,5,5,0,Vitória,Visitante,Castelão,São Luís,False,Outros estádios,33077.0,0–5
+5,2025-01-25,Campeonato Carioca,5,Volta Redonda,Flamengo,0,2,2,0,Vitória,Visitante,Arena BRB Mané Garrincha,Brasília,False,Outros estádios,23873.0,0–2
+6,2025-01-30,Campeonato Carioca,6,Flamengo,Sampaio Corrêa,2,0,2,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,20455.0,2–0
+7,2025-02-02,Supercopa Rei,Final Clássico da Rivalidade,Botafogo,Flamengo,1,3,3,1,Vitória,Neutro,Mangueirão,Belém,False,Outros estádios,44952.0,1–3
+8,2025-02-05,Campeonato Carioca,8,Portuguesa,Flamengo,0,5,5,0,Vitória,Visitante,Parque do Sabiá,Uberlândia,False,Outros estádios,16296.0,0–5
+9,2025-02-08,Campeonato Carioca,9 Fla–Flu,Fluminense,Flamengo,0,0,0,0,Empate,Visitante,Maracanã,Rio de Janeiro,True,Maracanã,37838.0,0–0
+10,2025-02-12,Campeonato Carioca,7 Clássico da Rivalidade,Flamengo,Botafogo,1,0,1,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,33465.0,1–0
+11,2025-02-15,Campeonato Carioca,10 Clássico dos Milhões,Flamengo,Vasco da Gama,2,0,2,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,44543.0,2–0
+12,2025-02-22,Campeonato Carioca,11,Flamengo,Maricá,5,0,5,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,29544.0,5–0
+13,2025-03-01,Campeonato Carioca,First leg Clássico dos Milhões,Vasco da Gama,Flamengo,0,1,1,0,Vitória,Visitante,Nilton Santos,Rio de Janeiro,False,Outros estádios,10966.0,0–1
+14,2025-03-08,Campeonato Carioca,Second leg Clássico dos Milhões,Flamengo,Vasco da Gama,2,1,2,1,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,55096.0,2–1  (3–1 agg.)
+15,2025-03-12,Campeonato Carioca,First leg Fla–Flu,Fluminense,Flamengo,1,2,2,1,Vitória,Visitante,Maracanã,Rio de Janeiro,True,Maracanã,39120.0,1–2
+16,2025-03-16,Campeonato Carioca,Second leg Fla–Flu,Flamengo,Fluminense,0,0,0,0,Empate,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,69393.0,0–0  (2–1 agg.)
+17,2025-03-29,Campeonato Brasileiro Série A,1,Flamengo,Internacional,1,1,1,1,Empate,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,48452.0,1–1
+18,2025-04-03,CONMEBOL Libertadores,1,Deportivo Táchira,Flamengo,0,1,1,0,Vitória,Visitante,Polideportivo de Pueblo Nuevo,"San Cristóbal, Venezuela",False,Outros estádios,18138.0,0–1
+19,2025-04-06,Campeonato Brasileiro Série A,2,Vitória,Flamengo,1,2,2,1,Vitória,Visitante,Barradão,Salvador,False,Outros estádios,29493.0,1–2
+20,2025-04-09,CONMEBOL Libertadores,2,Flamengo,Central Córdoba,1,2,1,2,Derrota,Mandante,Maracanã,"Rio de Janeiro, Brazil",True,Maracanã,56515.0,1–2
+21,2025-04-13,Campeonato Brasileiro Série A,3,Grêmio,Flamengo,0,2,2,0,Vitória,Visitante,Arena do Grêmio,Porto Alegre,False,Outros estádios,23367.0,0–2
+22,2025-04-16,Campeonato Brasileiro Série A,4,Flamengo,Juventude,6,0,6,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,31445.0,6–0
+23,2025-04-19,Campeonato Brasileiro Série A,5 Clássico dos Milhões,Vasco da Gama,Flamengo,0,0,0,0,Empate,Visitante,Maracanã,Rio de Janeiro,True,Maracanã,39027.0,0–0
+24,2025-04-22,CONMEBOL Libertadores,3,LDU Quito,Flamengo,0,0,0,0,Empate,Visitante,Casa Blanca,"Quito, Ecuador",False,Outros estádios,17883.0,0–0
+25,2025-04-27,Campeonato Brasileiro Série A,6,Flamengo,Corinthians,4,0,4,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,67501.0,4–0
+26,2025-05-01,Copa do Brasil,1st leg,Botafogo-PB,Flamengo,0,1,1,0,Vitória,Visitante,Castelão,São Luís,False,Outros estádios,35381.0,0–1
+27,2025-05-04,Campeonato Brasileiro Série A,7,Cruzeiro,Flamengo,2,1,1,2,Derrota,Visitante,Mineirão,Belo Horizonte,False,Outros estádios,52752.0,2–1
+28,2025-05-07,CONMEBOL Libertadores,4,Central Córdoba,Flamengo,1,1,1,1,Empate,Visitante,Único Madre de Ciudades,"Santiago del Estero, Argentina",False,Outros estádios,19969.0,1–1
+29,2025-05-10,Campeonato Brasileiro Série A,8,Flamengo,Bahia,1,0,1,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,62204.0,1–0
+30,2025-05-15,CONMEBOL Libertadores,5,Flamengo,LDU Quito,2,0,2,0,Vitória,Mandante,Maracanã,"Rio de Janeiro, Brazil",True,Maracanã,65831.0,2–0
+31,2025-05-18,Campeonato Brasileiro Série A,9 Clássico da Rivalidade,Flamengo,Botafogo,0,0,0,0,Empate,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,54238.0,0–0
+32,2025-05-21,Copa do Brasil,2nd leg,Flamengo,Botafogo-PB,4,2,4,2,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,25814.0,4–2  (5–2 agg.)
+33,2025-05-25,Campeonato Brasileiro Série A,10,Palmeiras,Flamengo,0,2,2,0,Vitória,Visitante,Allianz Parque,São Paulo,False,Outros estádios,41075.0,0–2
+34,2025-05-28,CONMEBOL Libertadores,6,Flamengo,Deportivo Táchira,1,0,1,0,Vitória,Mandante,Maracanã,"Rio de Janeiro, Brazil",True,Maracanã,66082.0,1–0
+35,2025-06-01,Campeonato Brasileiro Série A,11,Flamengo,Fortaleza,5,0,5,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,64900.0,5–0
+36,2025-06-16,Copa do Mundo de Clubes da FIFA,1,Flamengo,Espérance de Tunis,2,0,2,0,Vitória,Neutro,Lincoln Financial Field,"Philadelphia, United States",False,Outros estádios,25797.0,2–0
+37,2025-06-20,Copa do Mundo de Clubes da FIFA,2,Flamengo,Chelsea,3,1,3,1,Vitória,Neutro,Lincoln Financial Field,"Philadelphia, United States",False,Outros estádios,54619.0,3–1
+38,2025-06-24,Copa do Mundo de Clubes da FIFA,3,Los Angeles FC,Flamengo,1,1,1,1,Empate,Neutro,Camping World Stadium,"Orlando, United States",False,Outros estádios,32933.0,1–1
+39,2025-06-29,Copa do Mundo de Clubes da FIFA,Round of 16,Flamengo,Bayern Munich,2,4,2,4,Derrota,Neutro,Hard Rock Stadium,"Miami Gardens, United States",False,Outros estádios,60914.0,2–4
+40,2025-07-12,Campeonato Brasileiro Série A,13,Flamengo,São Paulo,2,0,2,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,67359.0,2–0
+41,2025-07-16,Campeonato Brasileiro Série A,14,Santos,Flamengo,1,0,0,1,Derrota,Visitante,Vila Belmiro,Santos,False,Outros estádios,13541.0,1–0
+42,2025-07-20,Campeonato Brasileiro Série A,15 Fla–Flu,Flamengo,Fluminense,1,0,1,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,58416.0,1–0
+43,2025-07-23,Campeonato Brasileiro Série A,16,Red Bull Bragantino,Flamengo,1,2,2,1,Vitória,Visitante,Cícero de Souza Marques,Bragança Paulista,False,Outros estádios,7537.0,1–2
+44,2025-07-27,Campeonato Brasileiro Série A,17 Flamengo Atlético-MG rivalry,Flamengo,Atlético Mineiro,1,0,1,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,54550.0,1–0
+45,2025-07-31,Copa do Brasil,1st leg,Flamengo,Atlético Mineiro,0,1,0,1,Derrota,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,64681.0,0–1
+46,2025-08-03,Campeonato Brasileiro Série A,18,Ceará,Flamengo,1,1,1,1,Empate,Visitante,Castelão,Fortaleza,False,Outros estádios,57867.0,1–1
+47,2025-08-06,Copa do Brasil,2nd leg,Atlético Mineiro,Flamengo,0,1,1,0,Vitória,Visitante,Arena MRV,Belo Horizonte,False,Outros estádios,38873.0,0–1  (1–1 agg.)  (4–3 p)
+48,2025-08-09,Campeonato Brasileiro Série A,19,Flamengo,Mirassol,2,1,2,1,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,64018.0,2–1
+49,2025-08-13,CONMEBOL Libertadores,1st leg,Flamengo,Internacional,1,0,1,0,Vitória,Mandante,Maracanã,"Rio de Janeiro, Brazil",True,Maracanã,68483.0,1–0
+50,2025-08-17,Campeonato Brasileiro Série A,20,Internacional,Flamengo,1,3,3,1,Vitória,Visitante,Beira-Rio,Porto Alegre,False,Outros estádios,23224.0,1–3
+51,2025-08-20,CONMEBOL Libertadores,2nd leg,Internacional,Flamengo,0,2,2,0,Vitória,Visitante,Beira-Rio,"Porto Alegre, Brazil",False,Outros estádios,43581.0,0–2  (0–3 agg.)
+52,2025-08-25,Campeonato Brasileiro Série A,21,Flamengo,Vitória,8,0,8,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,60642.0,8–0
+53,2025-08-31,Campeonato Brasileiro Série A,22,Flamengo,Grêmio,1,1,1,1,Empate,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,69447.0,1–1
+54,2025-09-14,Campeonato Brasileiro Série A,23,Juventude,Flamengo,0,2,2,0,Vitória,Visitante,Alfredo Jaconi,Caxias do Sul,False,Outros estádios,15204.0,0–2
+55,2025-09-18,CONMEBOL Libertadores,1st leg,Flamengo,Estudiantes de La Plata,2,1,2,1,Vitória,Mandante,Maracanã,"Rio de Janeiro, Brazil",True,Maracanã,71977.0,2–1
+56,2025-09-21,Campeonato Brasileiro Série A,24 Clássico dos Milhões,Flamengo,Vasco da Gama,1,1,1,1,Empate,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,62156.0,1–1
+57,2025-09-25,CONMEBOL Libertadores,2nd leg,Estudiantes de La Plata,Flamengo,1,0,0,1,Derrota,Visitante,Uno,"La Plata, Argentina",False,Outros estádios,32530.0,1–0  (2–2 agg.)  (2–4 p)
+58,2025-09-28,Campeonato Brasileiro Série A,25,Corinthians,Flamengo,1,2,2,1,Vitória,Visitante,Neo Química Arena,São Paulo,False,Outros estádios,40629.0,1–2
+59,2025-10-02,Campeonato Brasileiro Série A,26,Flamengo,Cruzeiro,0,0,0,0,Empate,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,72565.0,0–0
+60,2025-10-05,Campeonato Brasileiro Série A,27,Bahia,Flamengo,1,0,0,1,Derrota,Visitante,Casa de Apostas Arena Fonte Nova,Salvador,False,Outros estádios,48634.0,1–0
+61,2025-10-15,Campeonato Brasileiro Série A,28 Clássico da Rivalidade,Botafogo,Flamengo,0,3,3,0,Vitória,Visitante,Nilton Santos,Rio de Janeiro,False,Outros estádios,22635.0,0–3
+62,2025-10-19,Campeonato Brasileiro Série A,29,Flamengo,Palmeiras,3,2,3,2,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,71651.0,3–2
+63,2025-10-22,CONMEBOL Libertadores,1st leg,Flamengo,Racing,1,0,1,0,Vitória,Mandante,Maracanã,"Rio de Janeiro, Brazil",True,Maracanã,71738.0,1–0
+64,2025-10-25,Campeonato Brasileiro Série A,30,Fortaleza,Flamengo,1,0,0,1,Derrota,Visitante,Arena Castelão,Fortaleza,False,Outros estádios,,1–0
+65,2025-10-29,CONMEBOL Libertadores,2nd leg,Racing,Flamengo,0,0,0,0,Empate,Visitante,El Cilindro,"Avellaneda, Argentina",False,Outros estádios,,0–0  (0–1 agg.)
+66,2025-11-01,Campeonato Brasileiro Série A,31,Flamengo,Sport,3,0,3,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,67598.0,3–0
+67,2025-11-05,Campeonato Brasileiro Série A,32,São Paulo,Flamengo,2,2,2,2,Empate,Visitante,Vila Belmiro,Santos,False,Outros estádios,11228.0,2–2
+68,2025-11-09,Campeonato Brasileiro Série A,33,Flamengo,Santos,3,2,3,2,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,69612.0,3–2
+69,2025-11-15,Campeonato Brasileiro Série A,12,Sport,Flamengo,1,5,5,1,Vitória,Visitante,Arena Pernambuco,São Lourenço da Mata,False,Outros estádios,19706.0,1–5
+70,2025-11-19,Campeonato Brasileiro Série A,34 Fla–Flu,Fluminense,Flamengo,2,1,1,2,Derrota,Visitante,Maracanã,Rio de Janeiro,True,Maracanã,69591.0,2–1
+71,2025-11-22,Campeonato Brasileiro Série A,35,Flamengo,Red Bull Bragantino,3,0,3,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,68408.0,3–0
+72,2025-11-25,Campeonato Brasileiro Série A,36 Flamengo Atlético-MG rivalry,Atlético Mineiro,Flamengo,1,1,1,1,Empate,Visitante,Arena MRV,Belo Horizonte,False,Outros estádios,18321.0,1–1
+73,2025-11-29,CONMEBOL Libertadores,Final,Palmeiras,Flamengo,0,1,1,0,Vitória,Neutro,"Monumental ""U""","Lima, Peru",False,Outros estádios,40048.0,0–1
+74,2025-12-03,Campeonato Brasileiro Série A,37,Flamengo,Ceará,1,0,1,0,Vitória,Mandante,Maracanã,Rio de Janeiro,True,Maracanã,73244.0,1–0
+75,2025-12-06,Campeonato Brasileiro Série A,38,Mirassol,Flamengo,3,3,3,3,Empate,Visitante,José Maria de Campos Maia,Mirassol,False,Outros estádios,10278.0,3–3
+76,2025-12-10,Copa Intercontinental da FIFA,Second round,Cruz Azul,Flamengo,1,2,2,1,Vitória,Neutro,Ahmad bin Ali Stadium,"Al Rayyan, Qatar",False,Outros estádios,7108.0,1–2
+77,2025-12-13,Copa Intercontinental da FIFA,Play-off,Flamengo,Pyramids,2,0,2,0,Vitória,Neutro,Ahmad bin Ali Stadium,"Al Rayyan, Qatar",False,Outros estádios,8368.0,2–0
+78,2025-12-17,Copa Intercontinental da FIFA,Final,Paris Saint-Germain,Flamengo,1,1,1,1,Empate,Neutro,Ahmad bin Ali Stadium,"Al Rayyan, Qatar",False,Outros estádios,42150.0,1–1 (a.e.t.)  (2–1 p)

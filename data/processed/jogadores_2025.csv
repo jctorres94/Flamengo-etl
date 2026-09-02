@@ -1,0 +1,74 @@
+numero,posicao_sigla,jogador,titular_brasileirao,reserva_brasileirao,titular_copa_brasil,reserva_copa_brasil,titular_libertadores,reserva_libertadores,titular_carioca,reserva_carioca,titular_outras,reserva_outras,titular_total,reserva_total,jogos_total,jogos_brasileirao,jogos_copa_brasil,jogos_libertadores,jogos_carioca,jogos_outras,gols_brasileirao,gols_copa_brasil,gols_libertadores,gols_carioca,gols_outras,gols_total,assistencias_brasileirao,assistencias_copa_brasil,assistencias_libertadores,assistencias_carioca,assistencias_outras,assistencias_total,ano_chegada,fim_contrato,clube_anterior,taxa_transferencia_elenco,elenco_profissional_final,posicao,grupo_posicao,participacoes_gol,status_2025
+1,GK,Agustín Rossi,37,0,2,0,13,0,8,0,8,0,68,0,68,37,2,13,8,8,0,0,0,0,0,0,0,0,0,0,0,0,2023,2027,Boca Juniors,Free,True,Goleiro,Goleiro,0,Elenco profissional ao fim de 2025
+7,RW,Luiz Araújo,15,20,2,0,6,7,5,5,4,4,32,36,68,35,2,13,10,8,7,0,1,3,2,13,3,0,3,2,1,9,2023,2027,Atlanta United,€9.0m,True,Ponta direita,Ataque,22,Elenco profissional ao fim de 2025
+10,AM,Giorgian de Arrascaeta,30,3,0,2,11,0,8,2,7,1,56,8,64,33,2,11,10,8,18,0,2,2,3,25,14,0,1,2,3,20,2019,2028,Cruzeiro,€15.0m,True,Meia ofensivo,Meio-campo,45,Elenco profissional ao fim de 2025
+4,CB,Léo Pereira,33,1,2,0,12,0,8,0,7,0,62,1,63,34,2,12,8,7,4,0,1,0,1,6,0,0,1,0,0,1,2020,2027,Athletico Paranaense,€6.1m,True,Zagueiro,Defesa,7,Elenco profissional ao fim de 2025
+27,LW,Bruno Henrique,20,12,1,0,8,5,6,1,4,4,39,22,61,32,1,13,7,8,8,0,1,3,3,15,0,0,1,0,1,2,2019,2026,Santos,€5.4m,True,Ponta esquerda,Ataque,17,Elenco profissional ao fim de 2025
+3,CB,Léo Ortiz,26,0,2,0,10,1,8,1,6,0,52,2,54,26,2,11,9,6,1,0,1,2,0,4,2,0,0,0,0,2,2024,2028,Red Bull Bragantino,€7.0m,True,Zagueiro,Defesa,6,Elenco profissional ao fim de 2025
+50,RW,Gonzalo Plata,14,14,3,0,6,1,8,0,5,2,36,17,53,28,3,7,8,7,4,0,0,1,0,5,1,1,2,3,2,9,2024,2029,Al Sadd,€3.8m,True,Ponta direita,Ataque,14,Elenco profissional ao fim de 2025
+2,RB,Guillermo Varela,14,6,4,0,8,4,6,3,5,1,37,14,51,20,4,12,9,6,0,1,1,0,0,2,4,1,0,0,0,5,2022,2027,Dynamo Moscow,Free,True,Lateral-direito,Defesa,7,Elenco profissional ao fim de 2025
+11,LW,Everton,9,14,2,1,1,5,4,2,2,3,19,23,42,23,3,6,6,5,1,2,0,1,0,4,3,1,0,0,0,4,2022,2026,Benfica,€13.5m,True,Ponta esquerda,Ataque,8,Elenco profissional ao fim de 2025
+26,LB,Alex Sandro,19,1,0,0,9,1,4,1,6,0,38,3,41,20,0,10,5,6,0,0,0,0,0,0,0,0,0,0,0,0,2024,2026,Free agent,Free,True,Lateral-esquerdo,Defesa,0,Elenco profissional ao fim de 2025
+5,DM,Erick Pulgar,15,2,0,0,6,1,8,1,7,0,36,4,40,17,0,7,9,7,1,0,0,0,0,1,0,0,0,0,0,0,2022,2027,Fiorentina,€3.0m,True,Volante,Meio-campo,1,Elenco profissional ao fim de 2025
+9,CF,Pedro,13,8,3,0,5,5,0,0,2,3,23,16,39,21,3,10,0,5,12,1,2,0,0,15,6,1,0,0,0,7,2020,2027,Fiorentina,€14.0m,True,Centroavante,Ataque,22,Elenco profissional ao fim de 2025
+6,LB,Ayrton Lucas,13,5,3,1,4,3,2,3,2,2,24,14,38,18,4,7,5,4,2,0,0,0,0,2,0,1,0,0,0,1,2022,2027,Spartak Moscow,€7.0m,True,Lateral-esquerdo,Defesa,3,Elenco profissional ao fim de 2025
+13,CB,Danilo,14,6,2,0,5,1,4,0,3,1,28,8,36,20,2,6,4,4,1,1,1,0,2,5,1,0,0,1,0,2,2025,2026,Juventus FC,Free,True,Zagueiro,Defesa,7,Elenco profissional ao fim de 2025
+52,CM,Evertton Araújo,10,8,4,0,2,4,4,2,1,1,21,15,36,18,4,6,6,2,1,0,0,0,0,1,0,0,0,0,0,0,2024,2028,Youth system,,True,Meio-campista,Meio-campo,1,Elenco profissional ao fim de 2025
+18,CM,Nicolás de la Cruz,12,7,0,0,5,0,5,0,1,4,23,11,34,19,0,5,5,5,0,0,1,0,0,1,0,0,0,0,0,0,2024,2028,River Plate,€14.5m,True,Meio-campista,Meio-campo,1,Elenco profissional ao fim de 2025
+29,DM,Allan,9,4,2,0,2,3,3,7,1,2,18,15,33,13,2,5,10,3,0,0,0,0,0,0,0,0,0,0,0,0,2023,2027,Atlético Mineiro,€8.2m,True,Volante,Meio-campo,0,Elenco profissional ao fim de 2025
+64,CF,Wallace Yan,4,13,1,1,0,4,1,6,0,3,6,27,33,17,2,4,7,3,1,0,0,4,2,7,2,0,0,2,0,4,2025,2027,Youth system,,True,Centroavante,Ataque,11,Elenco profissional ao fim de 2025
+21,DM,Jorginho,15,3,1,0,6,0,0,0,6,1,28,4,32,18,1,6,0,7,3,0,0,0,2,5,1,0,0,0,2,3,2025,2028,Arsenal,Free,True,Volante,Meio-campo,8,Elenco profissional ao fim de 2025
+23,CF,Juninho,2,13,0,2,2,3,3,5,0,2,7,25,32,15,2,5,8,2,1,0,1,2,0,4,0,0,0,0,0,0,2025,2028,Qarabağ FK,€5.0m,True,Centroavante,Ataque,4,Elenco profissional ao fim de 2025
+16,LW,Samuel Lino,19,2,0,2,5,1,0,0,1,1,25,6,31,21,2,6,0,2,4,0,0,0,0,4,5,0,0,0,0,5,2025,2029,Atlético Madrid,€22.0m,True,Ponta esquerda,Ataque,9,Elenco profissional ao fim de 2025
+30,LW,Michael,7,8,2,0,3,0,3,2,1,3,17,12,29,15,2,3,5,4,1,0,0,1,0,2,3,0,0,0,1,4,2024,2028,Al Hilal,Free,True,Ponta esquerda,Ataque,6,Elenco profissional ao fim de 2025
+15,AM,Jorge Carrascal,11,5,0,0,3,2,0,0,3,0,17,7,24,16,0,5,0,3,2,0,0,0,0,2,5,0,0,0,0,5,2025,2029,Dynamo Moscow,€12.0m,True,Meia ofensivo,Meio-campo,7,Elenco profissional ao fim de 2025
+8,MF,Saúl Ñíguez,12,4,0,2,3,1,0,0,0,2,15,9,24,16,2,4,0,2,0,0,0,0,0,0,2,0,0,0,0,2,2025,2028,Atlético Madrid,Free,True,Meio-campista,Meio-campo,2,Elenco profissional ao fim de 2025
+22,RB,Emerson Royal,13,1,0,1,1,2,0,0,0,0,14,4,18,14,1,3,0,0,1,0,0,0,0,1,1,0,0,0,0,1,2025,2028,AC Milan,€9.0m,True,Lateral-direito,Defesa,2,Elenco profissional ao fim de 2025
+17,LB,Matías Viña,2,6,1,0,0,0,0,0,0,1,2,7,10,8,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2024,2028,AS Roma,€9.0m,True,Lateral-esquerdo,Defesa,0,Elenco profissional ao fim de 2025
+61,CB,João Victor,3,1,1,0,0,1,1,1,0,0,5,3,8,4,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2024,2025,Youth system,,True,Zagueiro,Defesa,0,Elenco profissional ao fim de 2025
+33,CB,Cleiton,0,2,0,0,0,0,5,0,0,0,5,2,7,2,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2021,2025,Youth system,,True,Zagueiro,Defesa,0,Elenco profissional ao fim de 2025
+49,GK,Dyogo Alves,1,0,0,0,0,0,4,0,0,0,5,0,5,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2025,2026,Youth system,,True,Goleiro,Goleiro,0,Elenco profissional ao fim de 2025
+25,GK,Matheus Cunha,0,0,2,0,0,0,3,0,0,0,5,0,5,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2022,2025,Youth system,,True,Goleiro,Goleiro,0,Elenco profissional ao fim de 2025
+,CB,Pablo,0,0,0,0,0,0,4,0,0,0,4,0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2022,2025,Lokomotiv Moscow,€2.5m,True,Zagueiro,Defesa,0,Elenco profissional ao fim de 2025
+8,CM,Gerson,9,0,1,1,4,1,8,0,4,0,26,2,28,9,2,5,8,4,0,0,0,1,1,2,2,0,1,1,0,4,,,,,False,Meio-campista,Meio-campo,6,Atuou em 2025; não estava no elenco final
+43,RB,Wesley França,11,0,0,1,4,1,8,0,3,0,26,2,28,11,1,5,8,3,1,0,0,1,0,2,2,0,0,1,0,3,,,,,False,Lateral-direito,Defesa,5,Atuou em 2025; não estava no elenco final
+20,AM,Matheus Gonçalves,0,4,2,1,0,1,2,5,0,0,4,11,15,4,3,1,7,0,0,0,0,2,0,2,0,0,0,0,0,0,,,,,False,Meia ofensivo,Meio-campo,2,Atuou em 2025; não estava no elenco final
+51,RB,Daniel Sales,1,0,0,0,0,0,5,1,0,0,6,1,7,1,0,0,6,0,0,0,0,0,0,0,0,0,0,1,0,1,,,,,False,Lateral-direito,Defesa,1,Atuou em 2025; não estava no elenco final
+47,CF,Guilherme Gomes,1,0,0,0,0,0,4,2,0,0,5,2,7,1,0,0,6,0,2,0,0,1,0,3,0,0,0,3,0,3,,,,,False,Centroavante,Ataque,6,Atuou em 2025; não estava no elenco final
+60,CM,João Alves,0,0,0,1,0,0,0,4,0,0,0,5,5,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Meio-campista,Meio-campo,0,Atuou em 2025; não estava no elenco final
+19,RW,Lorran,0,0,0,1,0,0,4,0,0,0,4,1,5,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Ponta direita,Ataque,0,Atuou em 2025; não estava no elenco final
+28,CF,Carlinhos,0,0,0,0,0,0,4,0,0,0,4,0,4,0,0,0,4,0,0,0,0,3,0,3,0,0,0,0,0,0,,,,,False,Centroavante,Ataque,3,Atuou em 2025; não estava no elenco final
+42,DM,Fabiano,0,0,0,0,0,0,4,0,0,0,4,0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Volante,Meio-campo,0,Atuou em 2025; não estava no elenco final
+40,CF,Felipe Teresa,0,0,0,0,0,0,0,4,0,0,0,4,4,0,0,0,4,0,0,0,0,1,0,1,0,0,0,1,0,1,,,,,False,Centroavante,Ataque,2,Atuou em 2025; não estava no elenco final
+35,CM,Rayan Lucas,0,0,0,0,0,0,4,0,0,0,4,0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Meio-campista,Meio-campo,0,Atuou em 2025; não estava no elenco final
+54,LW,Shola Ogundana,0,0,0,0,0,0,0,4,0,0,0,4,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Ponta esquerda,Ataque,0,Atuou em 2025; não estava no elenco final
+39,LB,Zé Welinton,0,0,0,0,0,0,4,0,0,0,4,0,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Lateral-esquerdo,Defesa,0,Atuou em 2025; não estava no elenco final
+32,LW,Thiaguinho,0,0,0,0,0,0,3,0,0,0,3,0,3,0,0,0,3,0,0,0,0,1,0,1,0,0,0,0,0,0,,,,,False,Ponta esquerda,Ataque,1,Atuou em 2025; não estava no elenco final
+81,CF,Douglas Telles,1,1,0,0,0,0,0,0,0,0,1,1,2,2,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,,,,,False,Centroavante,Ataque,2,Atuou em 2025; não estava no elenco final
+79,AM,Joshua,0,1,0,1,0,0,0,0,0,0,0,2,2,1,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,,,,,False,Meia ofensivo,Meio-campo,1,Atuou em 2025; não estava no elenco final
+56,CM,Pablo Lúcio,1,0,0,0,0,0,0,1,0,0,1,1,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Meio-campista,Meio-campo,0,Atuou em 2025; não estava no elenco final
+70,LB,Ainoã,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Lateral-esquerdo,Defesa,0,Atuou em 2025; não estava no elenco final
+55,CM,Caio Garcia,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Meio-campista,Meio-campo,0,Atuou em 2025; não estava no elenco final
+22,CM,Carlos Alcaraz,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,,,,,False,Meio-campista,Meio-campo,1,Atuou em 2025; não estava no elenco final
+62,DM,Daniel Rogério,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Volante,Meio-campo,0,Atuou em 2025; não estava no elenco final
+63,LB,Felipe Vieira,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Lateral-esquerdo,Defesa,0,Atuou em 2025; não estava no elenco final
+69,CF,Guilherme Santos,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Centroavante,Ataque,0,Atuou em 2025; não estava no elenco final
+57,CB,Iago Teodoro,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Zagueiro,Defesa,0,Atuou em 2025; não estava no elenco final
+80,CF,João Camargo,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Centroavante,Ataque,0,Atuou em 2025; não estava no elenco final
+41,CB,João Pedro Da Mata,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Zagueiro,Defesa,0,Atuou em 2025; não estava no elenco final
+77,CB,Johnny Góes,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,,,,,False,Zagueiro,Defesa,1,Atuou em 2025; não estava no elenco final
+72,CM,Lucas Vieira,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Meio-campista,Meio-campo,0,Atuou em 2025; não estava no elenco final
+67,CF,Rafael Couto,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Centroavante,Ataque,0,Atuou em 2025; não estava no elenco final
+28,CM,Victor Hugo,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Meio-campista,Meio-campo,0,Atuou em 2025; não estava no elenco final
+76,RB,Wanderson,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Lateral-direito,Defesa,0,Atuou em 2025; não estava no elenco final
+66,AM,Bruno Xavier,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Meia ofensivo,Meio-campo,0,Base/inscrito sem atuação
+84,GK,Gabriel Werneck,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Goleiro,Goleiro,0,Base/inscrito sem atuação
+74,RB,Gusttavo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Lateral-direito,Defesa,0,Base/inscrito sem atuação
+44,CB,João Victor Carbone,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Zagueiro,Defesa,0,Base/inscrito sem atuação
+58,GK,Leonardo Nannetti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Goleiro,Goleiro,0,Base/inscrito sem atuação
+24,GK,Lucas Furtado,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Goleiro,Goleiro,0,Base/inscrito sem atuação
+53,RB,Lucyan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Lateral-direito,Defesa,0,Base/inscrito sem atuação
+75,CM,Luiz Felipe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Meio-campista,Meio-campo,0,Base/inscrito sem atuação
+78,CB,Pedro Fachinetti,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Zagueiro,Defesa,0,Base/inscrito sem atuação
+73,CB,Wesley Juan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Zagueiro,Defesa,0,Base/inscrito sem atuação
+83,CB,Yago Melo,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,,,,False,Zagueiro,Defesa,0,Base/inscrito sem atuação
